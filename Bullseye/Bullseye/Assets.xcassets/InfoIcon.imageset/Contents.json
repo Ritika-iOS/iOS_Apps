@@ -1,0 +1,25 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "locale" : "Swift",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "InfoIcon@2x.png",
+      "idiom" : "universal",
+      "locale" : "Swift",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "InfoIcon@3x.png",
+      "idiom" : "universal",
+      "locale" : "Swift",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
